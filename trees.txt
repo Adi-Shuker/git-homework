@@ -3,4 +3,5 @@ pine,
 Portia tree,
 Black catechu,
 Purple orchid tree,
-golden apple
+golden apple,
+Baobab
