@@ -1,4 +1,5 @@
 oak,
 pine,
 Portia tree,
-Black catechu
+Black catechu,
+Purple orchid tree
