@@ -2,4 +2,5 @@ oak,
 pine,
 Portia tree,
 Black catechu,
-Purple orchid tree
+Purple orchid tree,
+golden apple
